@@ -28,3 +28,10 @@ I'll create an interactive educational experience that demonstrates prompt engin
 I've created an interactive Prompt Engineering Learning Lab that teaches students how to write effective AI prompts while demonstrating the concepts through a hands-on solar system quiz!
 This educational tool includes three main sections: a prompt builder where students can create detailed Canva AI prompts by selecting topics, formats, and styles; an interactive solar system quiz that shows what good educational content looks like; and a reflection guide that helps students analyze their prompt-writing experience.
 Try building your own prompt using the dropdown menus, then test your space knowledge with the quiz! The reflection section will help you think critically about what makes prompts effective for creating engaging educational content.
+
+# October 21, 2025
+| Name     | Class | Seat |
+| :------- | :---- | :--- |
+| Franklin | second|  91a|
+| Hardeep  | third | 61f |
+| Marla    |first  |35b |
