@@ -71,3 +71,7 @@ Physical Boundaries: Respecting personal space and not overcrowding others.
 Environmental Awareness: Being mindful of small habits (like pen clicking or loud snacking) that might annoy neighbors.
 Why is self-regulation an important skill for the future? Self-regulation allows me to handle high-pressure or frustrating situations with a level head. In a future workplace, being able to control my voice and emotional reactions ensures that I am seen as a reliable and mature professional. It helps prevent small disagreements from turning into major conflicts and builds trust with my team.
 What is one habit you can improve? One habit I can work on is improving my situational awareness when I am deeply focused. I sometimes lose track of how much space I am using or how loud I am being when I'm "in the zone." I plan to start checking in with my surroundings more frequently to ensure I am remaining a respectful member of the shared space.
+# february 10, 2026
+I do enjoy football because i grew up playing and watching it.
+yes i watch super bowl.
+my opinion on it is that it was very broing.
