@@ -77,3 +77,13 @@ yes i watch super bowl.
 my opinion on it is that it was very broing.
 # february 23, 2026
 AI-powered computer vision had the biggest impact on the 2026 Winter Olympics by ensuring fairness through objective, data-driven officiating that reduces human error. Implemented in figure skating, 8K camera networks processed metrics on jumps and rotations in under a tenth of a second, providing an objective layer of truth to eliminate judging bias. While concerns exist regarding a potential reduction in artistic flair, the technology significantly enhanced the accuracy of competition.
+# march 23, 2026
+The odds of picking a perfect March Madness bracket are extremely low, yet many people still try to predict game outcomes. Think about your own bracket and the results from the first weekend of the tournament.
+
+Respond to the following:
+
+How did you choose your bracket (data, opinions, guessing, etc.), and how is it performing so far- chose it by using my knowledge, its going decent
+What results from the first weekend surprised you, and why?byu losing because they so good
+How might using data (such as team stats, rankings, or net ratings) improve predictions? u can see the stats and make good predections
+How could a computer program use this type of data to make better predictions than a person guessing?ai knwos more
+What types of programming or technology jobs might involve working with sports data like this?ai comptuers and phones
