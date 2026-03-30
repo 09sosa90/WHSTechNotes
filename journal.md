@@ -87,3 +87,9 @@ What results from the first weekend surprised you, and why?byu losing because th
 How might using data (such as team stats, rankings, or net ratings) improve predictions? u can see the stats and make good predections
 How could a computer program use this type of data to make better predictions than a person guessing?ai knwos more
 What types of programming or technology jobs might involve working with sports data like this?ai comptuers and phones
+# march 30, 2026
+Claim: Upsets happen because lower-seeded teams often have specific, under-valued, or favorable style matchups against higher-seeded teams, compounded by the intense pressure of single-elimination games.
+Evidence: In the 2026 tournament, 12th-seeded High Point defeated 5th-seeded Wisconsin, a classic example of the high-leverage "12-5" upset. According to analytics, this can occur when a smaller, faster team forces a slower, high-ranked team into a high-turnover game, often resulting in chaos.
+Reasoning: Computers and regression models struggle to account for qualitative data such as injuries, team chemistry, or the "inexperience factor". Even with robust data, predictions are often too simplistic and cannot capture the emotional volatility of a high-pressure, one-and-done game.
+Program Improvements: If building a predictive program, I would try to account for matchup volatility by creating a machine learning program focusing on turnover percentages and specific player matchups rather than just overall seed strength. To handle uncertainty, I would incorporate live-time, in-game data points (like early shooting percentages) rather than relying solely on season averages to identify which team is managing pressure better, as shown in the NCAA guide to picking upsets. 
+wrote by ai
